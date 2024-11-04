@@ -2,13 +2,15 @@ project:
   type: book
 
 book:
-  title: "How"
-  author: "Norah Jones"
+  title: "臨床論文の読み方"
+  author: "馬場 美彦"
   date: "11/4/2024"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - frailty.qmd
+    - part: meta.qmd
+      chapters:
+        - meta_intro.qmd
     - references.qmd
 
 bibliography: references.bib
@@ -16,10 +18,15 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
+    grid:
+      margin-width: 350px
   pdf:
-    documentclass: scrreprt
+    pdf-engine: xelatex
+    documentclass: bxjsbook
+    classoption: xelatex,ja=standard
     output-file: "How"
     output-ext:  "pdf"
 
-editor: visual
+reference-location: margin
+citation-location: margin
 

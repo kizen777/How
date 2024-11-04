@@ -1,9 +1,13 @@
-# Preface {.unnumbered}
+# はじめに {.unnumbered}
 
-This is a Quarto book.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
-```{r}
-1 + 1
-```
+てすと[^1]
+
+[^1]: サイドノート
+
+
+::: {.callout-note}
+Note that there are five types of callouts, including:
+`note`, `warning`, `important`, `tip`, and `caution`.
+:::
