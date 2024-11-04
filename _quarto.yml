@@ -11,6 +11,12 @@ book:
     - part: meta.qmd
       chapters:
         - meta_intro.qmd
+    - part: ct.qmd
+      chapters:
+        - rct_intro.qmd
+    - part: observation.qmd
+      chapters:
+        - crosssectional_intro.qmd
     - references.qmd
 
 bibliography: references.bib
