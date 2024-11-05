@@ -1,2 +1,58 @@
 # フレイル  {#frailty}
 
+## フレイルの定義  {#sec-frailty-definition}
+
+フレイルについての重要な論文は、さまざまな検索をした結果、以下の３つに絞ってみました。[^frailty-definition]
+
+[^frailty-definition]: PubMed または Google Scholar を使い、frailty について検索してみなさい。
+
+1.    Fried LP, Tangen CM, Walston J, Newman AB, Hirsch C, Gottdiener J, … & McBurnie MA (2001) Frailty in older adults: evidence for a phenotype. The Journals of Gerontology Series A: Biological Sciences and Medical Sciences, 56(3), M146-M157.
+1.    Clegg A, Young J, Iliffe S, Rikkert MO, & Rockwood K (2013). Frailty in elderly people. The Lancet, 381(9868), 752-762.
+1.    Rockwood K, Song X, MacKnight C, Bergman H, Hogan DB, McDowell I, & Mitnitski A (2005) A global clinical measure of fitness and frailty in elderly people. CMAJ, 173(5), 489-495.
+
+さて、これらのなかで必ず読むべき論文はどれか？と聞かれたら、全てです。その中で一つというならば、おそらく Clegg A (2013) The Lancet となります。比較的新しいのと、ジャーナルが有名という点です。
+
+ただし、ここでは Fried LP (2001) The Journals of Gerontology Series A[^frailty-journal] を読んでみたいと思います。理由としては、フレイルの定義としてもっとも定着している Phenotype 法を提唱した論文だからです。Fried LP (2001) の中身そのものが医師国家試験で出題されたことがあります。
+
+[^frailty-journal]: The Journals of Gerontology Series A とは、どのようなジャーナルか？
+
+
+::: {.callout-note}
+
+第113回 F 27
+
+身体的フレイルの評価基準として**誤っている**のはどれか。
+
+a 易疲労感
+
+b 握力の低下
+
+c 睡眠時間の短縮
+
+d 歩行速度の低下
+
+e 日常生活活動量の低下
+
+:::
+
+この問題の正解を知るために、以下の論文を読んでみましょう。
+
+## 論文  {#sec-frailty-paper}
+
+Fried LP, Tangen CM, Walston J, Newman AB, Hirsch C, Gottdiener J, … & McBurnie MA (2001) Frailty in older adults: evidence for a phenotype. The Journals of Gerontology Series A: Biological Sciences and Medical Sciences, 56(3), M146-M157.
+
+https://doi.org/10.1093/gerona/56.3.m146
+
+著者はたくさんいますが、第一著者は Linda P. Fried で、当時の所属 (affiliation) は The Johns Hopkins Medical Institution でした。[^frailty-affiliation]
+
+[^frailty-affiliation] What is her current affiliation?
+
+この論文はオープンアクセスではないので、Abstract と Figure 3 のみ読みます。
+
+本論文自体、第5章で見るような横断研究でもあります。そこまで読み込むのはまだ先なので、ここでは、フレイルの定義についてと、障害と重複疾患との重なりだけ読みます。
+
+
+
+
+
+
