@@ -133,5 +133,6 @@ e Intention to treat〈ITT〉による解析は実際に行った治療に基づ
 
 RCT の論文のガイドラインは、CONSORT 宣言です。
 
+論文の例: Siramolpiwat S, Limthanetkul N, Pornthisarn B, Vilaichone RK, Chonprasertsuk S, Bhanthumkomol P, ... & Issariyakulkarn N (2023). Branched-chain amino acids supplementation improves liver frailty index in frail compensated cirrhotic patients: a randomized controlled trial. BMC gastroenterology, 23(1), 154.
 
-
+Teh R, Barnett D, Edlin R, Kerse N, Waters DL, Hale L, ... & Pillai A (2022). Effectiveness of a complex intervention of group-based nutrition and physical activity to prevent frailty in pre-frail older adults (SUPER): A randomised controlled trial. The Lancet Healthy Longevity, 3(8), e519-e530.

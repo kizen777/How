@@ -26,6 +26,7 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
+    css: style.css
     grid:
       margin-width: 350px
   pdf:
