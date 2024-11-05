@@ -1,7 +1,3 @@
-# Summary
+# さいごに {.unnumbered}
 
-In summary, this book has no content whatsoever.
-
-```{r}
-1 + 1
-```
+臨床研究は日進月歩で発展を続けています。本書で触れた部分は、その導入部分にすぎません。みなさんの力で、臨床研究を前に進めていきましょう。

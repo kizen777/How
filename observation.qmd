@@ -1,2 +1,6 @@
 # 観察研究  {#observational-studies}
 
+- 横断研究
+- 前向きコホート研究
+- ケースコントロール研究
+- STROBE 声明
