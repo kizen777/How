@@ -1,0 +1,11 @@
+# 批判的吟味  {#critical}
+
+```{=html}
+<div style="background:#E6E6FA;">
+```
+
+- Letter
+
+```{=html}
+</div>
+```

@@ -18,8 +18,10 @@ book:
     - part: observation.qmd
       chapters:
         - crosssectional_intro.qmd
+    - part: critical.qmd
+      chapters: 
+        - letter.qmd
     - summary.qmd
-    - references.qmd
 
 bibliography: references.bib
 

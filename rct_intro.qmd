@@ -14,7 +14,8 @@
 
 ランダム化の目的は、医師国家試験に数回出題されたことがあります。
 
-::: {.callout-note title = "医師国家試験 第110回 B 22"}
+::: {.callout-note}
+## 医師国家試験 第110回 B 22
 
 ランダム化比較試験〈無作為化比較対照試験〉においてランダム割付を実施する目的はどれか。
 
@@ -35,7 +36,8 @@ e 患者の試験への参加率の上昇
 
 介入 (intervention) と対照 (control) の比較を行います。動物実験の場合、対照を Sham ということもあります。
 
-::: {.callout-note title = "医師国家試験 第118回 B 09"}
+::: {.callout-note}
+## 医師国家試験 第118回 B 09
 
 ランダム化比較試験〈RCT〉で正しいのはどれか。
 
@@ -48,7 +50,6 @@ c 未測定の交絡因子に対応できない。
 d 有病率の低い疾患の研究に適している。
 
 e 症例対照研究よりエビデンスレベルが高い。
-
 :::
 
 RCT は、介入前をベースライン (baseline) と言います。また介入が終了した後に効果が持続するかどうかを見るために、3ヶ月や 1 年など追跡 (follow-up) 調査することもよくあります。調査時点を、介入前 (T0)、介入直後 (T1)、追跡 (T2) などと表現することもあります。
@@ -57,15 +58,15 @@ RCT は、介入前をベースライン (baseline) と言います。また介�
 
 AMA Manual of Style では、以下のように定義しています。
 
-Intention-to-treat (ITT) analysis is the preferred way to report randomized trial results. Final results are based on analysis of data from all the participants who were originally randomly assigned, whether or not they completed the trial.
+**Intention-to-treat (ITT) analysis** is the preferred way to report randomized trial results. Final results are based on analysis of data from all the participants who were originally randomly assigned, whether or not they completed the trial.
 
-A per-protocol analysis reports a study’s results by the treatment received and not by the group into which the participants were randomly assigned.
+A **per-protocol analysis** reports a study’s results by the treatment received and not by the group into which the participants were randomly assigned.
 
-AMA Manual of Style 11th Edition p. 988
+[@ama2020ama, p. 988]
 
+::: {.callout-note}
+## 第110回 B 13
 
-
-::: {.callout-note title = "第110回 B 13"}
 治療 A と治療 B との比較を目的としたランダム化比較試験〈無作為化比較対照試験〉を行った。割り付けと実際の治療人数の表を示す。
 
 | | 治療 A を実際に行った | 治療 B を実際に行った | 治療開始前 に死亡した | 合計 |
@@ -85,7 +86,8 @@ ITT ですので、「割付」を見れば良いことになります。割り�
 
 ここまで見たように、RCT の強みは、実験に参加した患者 (または参加者) については妥当性が高いと言えます。これを内的妥当性 (internal validity) と言います。対象者以外に拡張する場合は外的妥当性 (external validity) や一般化可能性 (generalisability)と言います。
 
-::: {.callout-note title = "第115回 B 06"}
+::: {.callout-note}
+## 医師国家試験 第115回 B 06
 
 ランダム化比較試験〈RCT〉について正しいのはどれか。
 
@@ -103,9 +105,9 @@ e 観察研究に比べて交絡因子の影響が大きい。
 
 RCT の特徴は、内的妥当性の高さなので、a が正解となります。
 
-選択肢 e に、交絡因子 (confounding factor) という言葉があります。交絡因子は系統誤差の原因の一つですので、RCT ではむしろ影響が少なくなります。交絡因子は、統計学的には「調整」(adjustment) をする必要が出てきます。3
+選択肢 e に、交絡因子 (confounding factor) という言葉があります。交絡因子は系統誤差の原因の一つですので、RCT ではむしろ影響が少なくなります。交絡因子は、統計学的には「調整」(adjustment) をする必要が出てきます。
 
-3 confounding variable: variable that can cause or prevent the outcome of interest, is not an intermediate variable, and is associated with the factor under investivgation. Unless it is possible to adjust for confounding variables their effects cannot be distinguished from those of the factors being studied. … (Manual of Style 11th Edition p. 1028)
+confounding variable: variable that can cause or prevent the outcome of interest, is not an intermediate variable, and is associated with the factor under investivgation. Unless it is possible to adjust for confounding variables their effects cannot be distinguished from those of the factors being studied. … [@ama2020ama, p. 1028]
 
 統計手法としては、繰り返しのある二元配置分散分析 (two-way repeated measures ANOVA) や混合モデル (mixed model) といった解析方法を使います。
 
@@ -113,7 +115,8 @@ RCT には、倫理的な課題があります。それは、参加者の多く�
 
 
 
-::: {.callout-note title = "第114回 E 17"}
+::: {.callout-note}
+## 医師国家試験 第114回 E 17
 
 ランダム化比較試験〈RCT〉について正しいのはどれか。
 
