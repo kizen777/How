@@ -2,7 +2,7 @@
 
 ## フレイルの定義  {#sec-frailty-definition}
 
-フレイルについての重要な論文は、さまざまな検索をした結果、以下の３つに絞ってみました。[^frailty-definition]
+フレイルについての重要な論文は、さまざまな検索をした結果、以下の 3 つに絞ってみました。[^frailty-definition]
 
 [^frailty-definition]: PubMed または Google Scholar を使い、frailty について検索してみなさい。
 
@@ -47,12 +47,36 @@ https://doi.org/10.1093/gerona/56.3.m146
 
 [^frailty-affiliation] What is her current affiliation?
 
-この論文はオープンアクセスではないので、Abstract と Figure 3 のみ読みます。
+この論文はオープンアクセスではないので、Abstract と Figure 3 のみ読みます。本文全体 (Figure 3 を含む) は、Universal Passport などから入手してください。
 
-本論文自体、第5章で見るような横断研究でもあります。そこまで読み込むのはまだ先なので、ここでは、フレイルの定義についてと、障害と重複疾患との重なりだけ読みます。
+## Abstract  {#sec-frailty-abstract}
 
+Abstract は、構造化されています。
 
+::: {.panel-tabset}
+## 原文   {.unnumbered}
 
+**Background.** Frailty is considered highly prevalent in old age and to confer high risk for falls, disability, hospitalization, and mortality. Frailty has been considered synonymous with disability, comorbidity, and other characteristics, but it is recognized that it may have a biologic basis and be a distinct clinical syndrome. A standardized definition has not yet been established.
 
+## 日本語訳   {.unnumbered}
 
+フレイルは老年期に多くみられ、転倒、障害、入院、死亡のリスクが高いと考えられている。フレイルは、障害、合併症、その他の特徴と同義であると考えられてきたが、生物学的基盤があり、明確な臨床症候群である可能性が認められている。標準的な定義はまだ確立されていない。
+
+:::
+
+::: {.callout-note}
+
+prevalent: 流行している; prevalence は有病率
+
+fall: 転倒
+
+hospitalization: 入院
+
+comorbidity: 重複疾患
+
+:::
+
+```{=latex}
+\includegraphics[width=1.0\textwidth]{img/Fried-LP-2001-F3.png}
+```
 
